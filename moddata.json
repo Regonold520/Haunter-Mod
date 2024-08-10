@@ -2,7 +2,7 @@
   "creator": "Regonold",
   "displayname":"Haunter Mod",
   "modver": 0.1,
-  "intendedgamever": 0.6.1,
+  "intendedgamever": "0.6.1",
   "description": "This mod adds many new spooky counterparts to vanilla things and even more.",
   "identifier": "hauntermod"
 }
