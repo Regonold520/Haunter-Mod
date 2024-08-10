@@ -1,0 +1,11 @@
+﻿{
+  "internalname":"ghastlyrubble",
+  "displayname":"Ghastly Rubble",
+  "bulletdata":{
+    "burn": true,
+    "damage": 5
+  },
+  "recipedata": {
+    "ghastlyrubble.def:stone":{ "def:constructor":"polymorphbullet" }
+  }
+}

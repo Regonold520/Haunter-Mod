@@ -1,0 +1,13 @@
+﻿{
+  "internalname":"spookywood",
+  "displayname":"Spooky Wood",
+  "recipedata":{
+    "def:wood":{
+      "haunter":"spookywood"
+    },
+    "def:refiner": "spookybullet"
+  },
+  "bulletdata":{
+    "damage": 2
+  }
+}
