@@ -1,0 +1,10 @@
+﻿{
+  "internalname":"spookybullet",
+  "displayname":"Spooky Bullet",
+  "recipedata":{
+    "def:furnace": "ghastlyrubble"
+  },
+  "bulletdata":{
+    "damage": 3
+  }
+}

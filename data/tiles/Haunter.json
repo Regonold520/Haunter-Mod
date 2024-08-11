@@ -1,0 +1,13 @@
+﻿{
+  "internalname": "haunter",
+  "displayname": "Haunter",
+  "sizex": 2,
+  "sizey": 2,
+  "inputside": {"pos":"(1, 0)","side":"east"},
+  "outputside": {"pos":"(0, -1)","side":"north"},
+  "showprogress":true,
+  "worktime":3,
+  "freeinput":false,
+  "price":500,
+  "subtype":"converters"
+}

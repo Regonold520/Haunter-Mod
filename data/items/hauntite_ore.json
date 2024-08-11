@@ -1,0 +1,8 @@
+﻿{
+  "internalname":"hauntite_ore",
+  "displayname":"Hauntite Ore",
+  "bulletdata":{
+    "damage": 5
+  },
+  "recipedata": {}
+}

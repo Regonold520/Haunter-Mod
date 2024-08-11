@@ -1,0 +1,14 @@
+﻿{
+  "internalname": "hauntite_drill",
+  "displayname": "Hauntite Drill",
+  "sizex": 1,
+  "sizey": 1,
+  "inputside": "null",
+  "outputside": "west",
+  "showprogress":true,
+  "worktime":1,
+  "freeinput":false,
+  "price":500,
+  "subtype":"producers",
+  "material":"hauntite_ore"
+}

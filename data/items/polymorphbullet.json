@@ -1,0 +1,9 @@
+﻿{
+  "internalname":"polymorphbullet",
+  "displayname":"Polymorphy Rubble",
+  "bulletdata":{
+    "burn": true,
+    "scatter": 2,
+    "damage": 20
+  }
+}
